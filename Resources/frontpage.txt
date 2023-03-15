@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+  <head>
+     <title>My Homepage</title>
+     <style>
+      body {
+        background-color: #2A2929;
+      }
+    </style>
+  </head>
+  <body>
+       <table>
+          <tr style ="color:#ecebea;">
+            <td class='right2'>WELCOME!</td>
+            <td class='right1'>Secret</td>
+            <td class='right'>Focus | Pray</td>
+          </tr>
+      </table>
+       <div style="text-align: left;"><img src="https://i.postimg.cc/KjtJkQrX/333426720-750708069693176-3436160549115540191-n.png" width="200" alt="My Image"        
+       /></div>
+       <br><br>
+       <table>
+       <img src="https://i.postimg.cc/qM9s9Wnp/327962460-1269527990304319-4521088123773760456-n.png" alt="" width="180" height="180" id="hp"/>
+          <tr style ="color:#ecebea;">
+            <td class='left2'>I'M</td>
+          </tr>
+          <tr style ="color:#ecebea;">
+            <td class='left3'>SEAN</td>
+          </tr>
+          </table>
+          <table>
+            <tr style ="color:#ecebea;">
+            <td class='left4'>CALVIN</td>
+          </tr>
+          <tr style ="color:#ecebea;">
+            <td class='left5'>RAMOS</td>
+            <td class='left6'>!EMOCLEW</td>
+          </tr>
+      </table>
+      
+       
+     
+       
+  
+  </body>

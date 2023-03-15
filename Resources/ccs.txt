@@ -1,0 +1,47 @@
+table{
+    width: 100%;
+    
+    line-height: 40px; 
+}
+table td{
+    vertical-align: baseline;
+}
+
+.right1{
+    font-family: Open Sans Hebrew Condensed;
+    font-size: 12px;
+    text-align: middle;
+}
+.right{
+    font-size: 12px;
+    text-align: right;
+}
+.right2{
+  font-size: 50px;
+  text-align: left;
+}
+.left2{
+  font-size: 46px;
+  text-align: left;
+}
+.left3{
+  font-size: 46px;
+  text-align: left;
+}
+.left4{
+  font-size: 46px;
+  text-align: left;
+}
+.left5{
+  font-size: 46px;
+  text-align: left;
+}
+#hp  {
+float: right;    
+ margin: 0 0 0 15px ;
+}
+
+.left6{
+  font-size: 70px;
+  text-align: right;
+}
